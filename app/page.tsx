@@ -28,12 +28,12 @@ export default function Home() {
 
       <div className="relative flex place-items-center">
         <p>
-        Bonjour, je suis thomas santoro j'ai 20 ans, je suis en 3 ème année de BUT à l'IUT de lens.<br/>
+        Bonjour je suis thomas santoro j ai 20 ans, je suis en 3 ème année de BUT à l IUT de lens.<br/>
         Je suis en alternance chez IBM en tant que développeur adélia.<br/>
         <br/>
         
-          Pour mes compétences j'ai le niveau scolaire en :<br/>
-          java, php, python, sql, anglais
+          Pour mes compétences j ai le niveau scolaire en :<br/>
+          java php python sql anglais
         </p>
       </div>
 
